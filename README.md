@@ -1,4 +1,4 @@
-# Podcast criado utilizando ElevenLabs
+# Podcast criado utilizando ElevenLabs e o Deepseek
 Olá, pessoal! Bem-vindos ao nosso podcast de hoje. Eu sou Icaro, e hoje vamos falar sobre um tema que está cada vez mais presente no nosso dia a dia: a Tecnologia da Informação, ou simplesmente, TI.
 
 Se você já se perguntou o que é TI, como funciona ou como pode entrar nessa área, este episódio é para você. Vamos descomplicar tudo e trazer um guia prático cheio de dicas. Então, preparem-se, porque o futuro é digital, e ele começa agora!
